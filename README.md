@@ -4,7 +4,8 @@ This project is a movie website designed using HTML, CSS, and JavaScript. Users 
 
 ## 🎥 Preview
 Below is a short preview of the project:  
-![yyy](https://github.com/user-attachments/assets/4874aefc-de39-49af-aa1d-186dc9a4b3b3)
+![ekrn1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1c08fabd-d334-491a-8512-0d38fb402c12)
+
 
 
 
