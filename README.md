@@ -5,7 +5,7 @@ This project is a movie website designed using HTML, CSS, and JavaScript. Users 
 ## 🎥 Preview
 Below is a short preview of the project:  
 
-![Movie Website Preview](gif-file-link.gif)  
+!gif-file-link.gif 
 
 > **Note:** If you want to add your own GIF, save it in a location like `assets/preview.gif` and update the README accordingly.
 
